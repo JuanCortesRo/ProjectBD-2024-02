@@ -1,6 +1,11 @@
-# Attenzio - Control de Asistencia y Atención en Clases
 
-**Materia**: Bases de Datos  
+<p align="center">
+  <img src="logo_attenzio.png" alt="Attenzio Logo" width="500"/>
+  <h2 align="center">Control de Asistencia y Atención en Clases</h2>
+</p>
+
+
+**Materia**: Bases de Datos (750006C)  
 **Periodo**: 2024-2  
 **Profesor**: Jefferson Amado Peña Torres  
 
