@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo_attenzio.png" alt="Attenzio Logo" width="500"/>
+  <img src="logo_attenzio.png" alt="Attenzio Logo" width="400"/>
   <h2 align="center">Control de Asistencia y Atención en Clases</h2>
 </p>
 
